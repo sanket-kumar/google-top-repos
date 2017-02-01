@@ -3,7 +3,7 @@
  */
 
 exports.googleRepoData = {
-    TOP_REPO_COUNT : 1,
+    TOP_REPO_COUNT : 5,
     TOP_COMMITEES_COUNT : 3,
     FETCH_REPO_DATA : "/orgs/google/repos"
 };
